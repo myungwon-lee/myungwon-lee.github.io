@@ -1,88 +1,76 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Myungwon Lee's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Myungwon Lee
+BYU-Idaho Data Science Student
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="ctrmyung@gmail.com">ctrmyung@gmail.com</a>
+| <a href="https://www.linkedin.com/in/lee-myungwon/">LinkedIn</a> 
+| <a href="https://github.com/MyungwonL">Github</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Apr 2022 - present`
+__Brigham Young University - Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- GPA: 4.0
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Full academic scholarship 2023-2025
 
 
+## Skills
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+| **Technical** | **Non-Technical** |     **Language**     |
+|:-------------:|:-----------------:|:--------------------:|
+|     Python    |   Communication   |    Korean (Native)   |
+|      SQL      |  Problem solving  | English (proficient) |
+|   R, Rstudio  |      Teamwork     |                      |
 
 
 
-## Publications
+## Work Experience
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`May 2022 - July 2024` **Library Aide**  
+*McKay Library Special Collections & Archives | BYU-Idaho*
 
-### Journals
+- Created XML files to expand the online accessibility of materials to a wider audience. 
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- Provided exceptional customer service by assisting patrons with inquiries and resource location. 
 
-`1669`
-Lectiones opticæ.
+- Worked on various projects that require self-motivation and attention to detail. 
 
-etc. etc. etc.
+`May 2023 - Aug 2023` **Customer Service Representative**  
+*Edunet.com | Hyosung ITX*
 
-### Patents
+- Responded promptly to the requests from customers and resolved issues. 
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Recognized the need for help from other representatives and helped them find solutions. 
 
+- Demonstrated excellent communication skills with customers and earned a reputation for a high customer satisfaction score.  
 
-## Occupation
+`Aug 2022 - Feb 2022` **Sergeant**  
+*Republic of Korea Army*
 
-`1600`
-__Royal Mint__, London
+- Led and managed a team of 15 and fostered a culture of discipline, accountability, and teamwork. 
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Facilitated clear communication skills within the team and with higher-ranking officers to implement effective problem-solving techniques. 
 
 
+
+## Volunteering Experience
+
+`Feb 2018 - Feb 2020` Full-time Representative (New York City, NY)  
+*The Church of Jesus Christ of Latter-day Saints*
+
+- Taught life-improving principles to hundreds of people by delivering customized lessons. 
+
+- Collaborated with local organizations to assist with providing supplies to those in need. 
+
+- Trained missionaries on setting goals, discipline, and effective teaching skills. 
 
 <!-- ### Footer
 
